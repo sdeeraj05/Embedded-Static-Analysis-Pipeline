@@ -1,0 +1,5 @@
+C:/Users/Deeraj/Downloads/sample_project/build/CMakeFiles/misra_MAIN.dir
+C:/Users/Deeraj/Downloads/sample_project/build/CMakeFiles/misra_analyze_all.dir
+C:/Users/Deeraj/Downloads/sample_project/build/CMakeFiles/misra_GEN.dir
+C:/Users/Deeraj/Downloads/sample_project/build/CMakeFiles/edit_cache.dir
+C:/Users/Deeraj/Downloads/sample_project/build/CMakeFiles/rebuild_cache.dir
