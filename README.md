@@ -1,8 +1,6 @@
 # Embedded-Static-Analysis-Pipeline
 A Python-based automation tool designed to execute static code analysis on embedded firmware, parse the raw tool logs, and generate consolidated quality reports for CI/CD pipeline integration.
 
-# Embedded Code Static Analysis Pipeline
-
 ## Overview
 This repository contains a Python-based automation pipeline designed to run static code analysis on embedded C firmware (such as STM32 projects). Developed during a summer internship at Niyata Infotech, this tooling automates code quality checks, rule enforcement, and report parsing, making it ready for seamless integration into modern SDLC workflows and cloud-based CI/CD environments like Microsoft Azure.
 
